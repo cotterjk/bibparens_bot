@@ -12,7 +12,7 @@ I created **kjv_final.txt** by hacking up this [text file of the King James Bibl
 **tweetlines.py** reads in **kjv_final.txt**, chooses a random line, tweets it, and deletes it from the source file. If the line is too long to tweet, it automatically replies to itself until the line is all tweeted. It runs via [cron job](https://en.wikipedia.org/wiki/Cron) on my laptop at 5pm every day.
 
 ## Why?
-I think they're funny!
+I think they're funny! And I wanted to relearn regular expressions, and run a twitterbot via cron.
 
 ## No actually, why?
 
