@@ -20,7 +20,7 @@ Besides being written in ancient dialects of languages unrelated to English, ori
 
 “A set of parentheses is used whenever the translators identified a thought within a thought. Wherever parentheses are employed in your bible, it is possible to read the surrounding verse or verses without the words in parentheses and have it still make sense." [†](https://www.purecambridgetext.com/post/2018/02/06/the-use-of-parentheses)
 
-They read as whispered asides, explanatory commas, technicalities, and clarifications—which I think add a conversational tone to scripture which can feel stern and impenetrable. After compiling the list, it felt appropriate to dole them out in the arena and format of today's clarifications, educational threads, context clues, and shitposting.
+They read as whispered asides, explanatory commas, technicalities, and clarifications—which I think add a conversational tone to scripture which can feel stern and impenetrable. After compiling the list, it felt appropriate to dole them out in the arena and format of today's clarifications, educational threads, and cultural context clues.
 
 
 ## Quick Facts
