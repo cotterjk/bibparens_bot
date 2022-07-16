@@ -9,7 +9,7 @@ Tweeting every parenthetical section of biblical scripture (like this) and where
 I created **kjv_final.txt** by hacking up this [text file of the King James Bible](https://raw.githubusercontent.com/ErikSchierboom/sentencegenerator/master/samples/the-king-james-bible.txt). I used the python ['re' library](https://docs.python.org/3/library/re.html) for editor-crashing regex substitutions, and Atom's built in find-replace for small enough jobs.
 
 ### Tweeting them
-**tweetlines.py** reads in **kjv_final.txt**, chooses a random line, tweets it, and deletes it from the source file. If the line is too long to tweet, it automatically replies to itself until the line is all tweeted. It runs via [cron job](https://en.wikipedia.org/wiki/Cron) on my laptop at 5pm every day.
+**tweetlines.py** reads in **kjv_final.txt**, chooses a random line, tweets it, and deletes it from the source file. If the line is too long to tweet, it automatically replies to itself until the line is all tweeted. It runs via [cron job](https://en.wikipedia.org/wiki/Cron) on my laptop at 5pm every day. (This repo is a duplicate code store.)
 
 ## Why?
 I think they're funny! And I wanted to relearn regular expressions, and run a twitterbot via cron.
